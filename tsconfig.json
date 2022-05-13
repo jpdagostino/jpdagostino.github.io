@@ -1,0 +1,10 @@
+{
+    "include": ["src/**/*"],
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "jsxImportSource": "react",
+        "isolatedModules": true,
+        "target": "es2021",
+        "strict": true
+    }
+}
